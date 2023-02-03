@@ -1,0 +1,7 @@
+C:\ws-csharp\debugger\debugger\bin\Debug\debugger.exe.config
+C:\ws-csharp\debugger\debugger\bin\Debug\debugger.exe
+C:\ws-csharp\debugger\debugger\bin\Debug\debugger.pdb
+C:\ws-csharp\debugger\debugger\obj\Debug\debugger.csproj.AssemblyReference.cache
+C:\ws-csharp\debugger\debugger\obj\Debug\debugger.csproj.CoreCompileInputs.cache
+C:\ws-csharp\debugger\debugger\obj\Debug\debugger.exe
+C:\ws-csharp\debugger\debugger\obj\Debug\debugger.pdb

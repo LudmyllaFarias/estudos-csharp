@@ -1,0 +1,7 @@
+C:\ws-csharp\saida-de-dados\saida-de-dados\bin\Debug\saida-de-dados.exe.config
+C:\ws-csharp\saida-de-dados\saida-de-dados\bin\Debug\saida-de-dados.exe
+C:\ws-csharp\saida-de-dados\saida-de-dados\bin\Debug\saida-de-dados.pdb
+C:\ws-csharp\saida-de-dados\saida-de-dados\obj\Debug\saida-de-dados.csproj.AssemblyReference.cache
+C:\ws-csharp\saida-de-dados\saida-de-dados\obj\Debug\saida-de-dados.csproj.CoreCompileInputs.cache
+C:\ws-csharp\saida-de-dados\saida-de-dados\obj\Debug\saida-de-dados.exe
+C:\ws-csharp\saida-de-dados\saida-de-dados\obj\Debug\saida-de-dados.pdb

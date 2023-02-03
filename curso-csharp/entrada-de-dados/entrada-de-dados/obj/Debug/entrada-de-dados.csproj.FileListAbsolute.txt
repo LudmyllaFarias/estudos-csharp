@@ -1,0 +1,7 @@
+C:\ws-csharp\entrada-de-dados\entrada-de-dados\bin\Debug\entrada-de-dados.exe.config
+C:\ws-csharp\entrada-de-dados\entrada-de-dados\bin\Debug\entrada-de-dados.exe
+C:\ws-csharp\entrada-de-dados\entrada-de-dados\bin\Debug\entrada-de-dados.pdb
+C:\ws-csharp\entrada-de-dados\entrada-de-dados\obj\Debug\entrada-de-dados.csproj.AssemblyReference.cache
+C:\ws-csharp\entrada-de-dados\entrada-de-dados\obj\Debug\entrada-de-dados.csproj.CoreCompileInputs.cache
+C:\ws-csharp\entrada-de-dados\entrada-de-dados\obj\Debug\entrada-de-dados.exe
+C:\ws-csharp\entrada-de-dados\entrada-de-dados\obj\Debug\entrada-de-dados.pdb

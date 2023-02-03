@@ -1,0 +1,7 @@
+C:\ws-csharp\variaveis\variaveis\bin\Debug\variaveis.exe.config
+C:\ws-csharp\variaveis\variaveis\bin\Debug\variaveis.exe
+C:\ws-csharp\variaveis\variaveis\bin\Debug\variaveis.pdb
+C:\ws-csharp\variaveis\variaveis\obj\Debug\variaveis.csproj.AssemblyReference.cache
+C:\ws-csharp\variaveis\variaveis\obj\Debug\variaveis.csproj.CoreCompileInputs.cache
+C:\ws-csharp\variaveis\variaveis\obj\Debug\variaveis.exe
+C:\ws-csharp\variaveis\variaveis\obj\Debug\variaveis.pdb

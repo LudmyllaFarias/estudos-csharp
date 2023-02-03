@@ -1,0 +1,6 @@
+C:\ws-csharp\variaveis\variaveis\bin\Release\variaveis.exe.config
+C:\ws-csharp\variaveis\variaveis\bin\Release\variaveis.exe
+C:\ws-csharp\variaveis\variaveis\bin\Release\variaveis.pdb
+C:\ws-csharp\variaveis\variaveis\obj\Release\variaveis.csproj.CoreCompileInputs.cache
+C:\ws-csharp\variaveis\variaveis\obj\Release\variaveis.exe
+C:\ws-csharp\variaveis\variaveis\obj\Release\variaveis.pdb

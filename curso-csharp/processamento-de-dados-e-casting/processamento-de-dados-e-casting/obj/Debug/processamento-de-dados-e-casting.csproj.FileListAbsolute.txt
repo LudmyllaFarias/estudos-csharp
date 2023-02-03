@@ -1,0 +1,7 @@
+C:\ws-csharp\processamento-de-dados-e-casting\processamento-de-dados-e-casting\bin\Debug\processamento-de-dados-e-casting.exe.config
+C:\ws-csharp\processamento-de-dados-e-casting\processamento-de-dados-e-casting\bin\Debug\processamento-de-dados-e-casting.exe
+C:\ws-csharp\processamento-de-dados-e-casting\processamento-de-dados-e-casting\bin\Debug\processamento-de-dados-e-casting.pdb
+C:\ws-csharp\processamento-de-dados-e-casting\processamento-de-dados-e-casting\obj\Debug\processamento-de-dados-e-casting.csproj.AssemblyReference.cache
+C:\ws-csharp\processamento-de-dados-e-casting\processamento-de-dados-e-casting\obj\Debug\processamento-de-dados-e-casting.csproj.CoreCompileInputs.cache
+C:\ws-csharp\processamento-de-dados-e-casting\processamento-de-dados-e-casting\obj\Debug\processamento-de-dados-e-casting.exe
+C:\ws-csharp\processamento-de-dados-e-casting\processamento-de-dados-e-casting\obj\Debug\processamento-de-dados-e-casting.pdb
