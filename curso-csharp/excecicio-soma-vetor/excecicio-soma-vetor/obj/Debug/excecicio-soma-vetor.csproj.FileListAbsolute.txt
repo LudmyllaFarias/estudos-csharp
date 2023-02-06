@@ -1,0 +1,6 @@
+C:\Users\ludmylla.farias\source\repos\excecicio-soma-vetor\excecicio-soma-vetor\bin\Debug\excecicio-soma-vetor.exe.config
+C:\Users\ludmylla.farias\source\repos\excecicio-soma-vetor\excecicio-soma-vetor\bin\Debug\excecicio-soma-vetor.exe
+C:\Users\ludmylla.farias\source\repos\excecicio-soma-vetor\excecicio-soma-vetor\bin\Debug\excecicio-soma-vetor.pdb
+C:\Users\ludmylla.farias\source\repos\excecicio-soma-vetor\excecicio-soma-vetor\obj\Debug\excecicio-soma-vetor.csproj.CoreCompileInputs.cache
+C:\Users\ludmylla.farias\source\repos\excecicio-soma-vetor\excecicio-soma-vetor\obj\Debug\excecicio-soma-vetor.exe
+C:\Users\ludmylla.farias\source\repos\excecicio-soma-vetor\excecicio-soma-vetor\obj\Debug\excecicio-soma-vetor.pdb

@@ -1,0 +1,6 @@
+C:\Users\ludmylla.farias\source\repos\excecicio-crescente\excecicio-crescente\bin\Debug\excecicio-crescente.exe.config
+C:\Users\ludmylla.farias\source\repos\excecicio-crescente\excecicio-crescente\bin\Debug\excecicio-crescente.exe
+C:\Users\ludmylla.farias\source\repos\excecicio-crescente\excecicio-crescente\bin\Debug\excecicio-crescente.pdb
+C:\Users\ludmylla.farias\source\repos\excecicio-crescente\excecicio-crescente\obj\Debug\excecicio-crescente.csproj.CoreCompileInputs.cache
+C:\Users\ludmylla.farias\source\repos\excecicio-crescente\excecicio-crescente\obj\Debug\excecicio-crescente.exe
+C:\Users\ludmylla.farias\source\repos\excecicio-crescente\excecicio-crescente\obj\Debug\excecicio-crescente.pdb

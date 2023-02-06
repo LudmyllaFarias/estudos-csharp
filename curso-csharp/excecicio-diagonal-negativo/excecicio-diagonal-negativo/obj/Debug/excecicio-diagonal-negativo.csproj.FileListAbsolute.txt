@@ -1,0 +1,7 @@
+C:\Users\ludmylla.farias\source\repos\excecicio-diagonal-negativo\excecicio-diagonal-negativo\bin\Debug\excecicio-diagonal-negativo.exe.config
+C:\Users\ludmylla.farias\source\repos\excecicio-diagonal-negativo\excecicio-diagonal-negativo\bin\Debug\excecicio-diagonal-negativo.exe
+C:\Users\ludmylla.farias\source\repos\excecicio-diagonal-negativo\excecicio-diagonal-negativo\bin\Debug\excecicio-diagonal-negativo.pdb
+C:\Users\ludmylla.farias\source\repos\excecicio-diagonal-negativo\excecicio-diagonal-negativo\obj\Debug\excecicio-diagonal-negativo.csproj.AssemblyReference.cache
+C:\Users\ludmylla.farias\source\repos\excecicio-diagonal-negativo\excecicio-diagonal-negativo\obj\Debug\excecicio-diagonal-negativo.csproj.CoreCompileInputs.cache
+C:\Users\ludmylla.farias\source\repos\excecicio-diagonal-negativo\excecicio-diagonal-negativo\obj\Debug\excecicio-diagonal-negativo.exe
+C:\Users\ludmylla.farias\source\repos\excecicio-diagonal-negativo\excecicio-diagonal-negativo\obj\Debug\excecicio-diagonal-negativo.pdb

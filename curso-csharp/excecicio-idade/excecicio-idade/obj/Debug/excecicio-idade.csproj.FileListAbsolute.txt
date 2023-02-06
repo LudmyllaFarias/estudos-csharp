@@ -1,0 +1,7 @@
+C:\Users\ludmylla.farias\source\repos\excecicio-idade\excecicio-idade\bin\Debug\excecicio-idade.exe.config
+C:\Users\ludmylla.farias\source\repos\excecicio-idade\excecicio-idade\bin\Debug\excecicio-idade.exe
+C:\Users\ludmylla.farias\source\repos\excecicio-idade\excecicio-idade\bin\Debug\excecicio-idade.pdb
+C:\Users\ludmylla.farias\source\repos\excecicio-idade\excecicio-idade\obj\Debug\excecicio-idade.csproj.CoreCompileInputs.cache
+C:\Users\ludmylla.farias\source\repos\excecicio-idade\excecicio-idade\obj\Debug\excecicio-idade.exe
+C:\Users\ludmylla.farias\source\repos\excecicio-idade\excecicio-idade\obj\Debug\excecicio-idade.pdb
+C:\Users\ludmylla.farias\source\repos\excecicio-idade\excecicio-idade\obj\Debug\excecicio-idade.csproj.AssemblyReference.cache

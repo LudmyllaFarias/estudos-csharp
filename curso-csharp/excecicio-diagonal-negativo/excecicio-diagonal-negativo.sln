@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "excecicio-diagonal-negativo", "excecicio-diagonal-negativo\excecicio-diagonal-negativo.csproj", "{45B26BFA-0710-4D59-9729-07288419C538}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45B26BFA-0710-4D59-9729-07288419C538}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45B26BFA-0710-4D59-9729-07288419C538}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45B26BFA-0710-4D59-9729-07288419C538}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45B26BFA-0710-4D59-9729-07288419C538}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB840B76-1155-465A-A73F-627F71BDEC0D}
+	EndGlobalSection
+EndGlobal

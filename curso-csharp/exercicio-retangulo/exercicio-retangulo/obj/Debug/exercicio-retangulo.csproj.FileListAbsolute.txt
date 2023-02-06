@@ -1,0 +1,7 @@
+C:\Users\ludmylla.farias\source\repos\exercicio-retangulo\exercicio-retangulo\bin\Debug\exercicio-retangulo.exe.config
+C:\Users\ludmylla.farias\source\repos\exercicio-retangulo\exercicio-retangulo\bin\Debug\exercicio-retangulo.exe
+C:\Users\ludmylla.farias\source\repos\exercicio-retangulo\exercicio-retangulo\bin\Debug\exercicio-retangulo.pdb
+C:\Users\ludmylla.farias\source\repos\exercicio-retangulo\exercicio-retangulo\obj\Debug\exercicio-retangulo.csproj.AssemblyReference.cache
+C:\Users\ludmylla.farias\source\repos\exercicio-retangulo\exercicio-retangulo\obj\Debug\exercicio-retangulo.csproj.CoreCompileInputs.cache
+C:\Users\ludmylla.farias\source\repos\exercicio-retangulo\exercicio-retangulo\obj\Debug\exercicio-retangulo.exe
+C:\Users\ludmylla.farias\source\repos\exercicio-retangulo\exercicio-retangulo\obj\Debug\exercicio-retangulo.pdb

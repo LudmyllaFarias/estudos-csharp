@@ -1,0 +1,6 @@
+C:\Users\ludmylla.farias\source\repos\excecicio-menos-de-tres\excecicio-menos-de-tres\bin\Debug\excecicio-menos-de-tres.exe.config
+C:\Users\ludmylla.farias\source\repos\excecicio-menos-de-tres\excecicio-menos-de-tres\bin\Debug\excecicio-menos-de-tres.exe
+C:\Users\ludmylla.farias\source\repos\excecicio-menos-de-tres\excecicio-menos-de-tres\bin\Debug\excecicio-menos-de-tres.pdb
+C:\Users\ludmylla.farias\source\repos\excecicio-menos-de-tres\excecicio-menos-de-tres\obj\Debug\excecicio-menos-de-tres.csproj.CoreCompileInputs.cache
+C:\Users\ludmylla.farias\source\repos\excecicio-menos-de-tres\excecicio-menos-de-tres\obj\Debug\excecicio-menos-de-tres.exe
+C:\Users\ludmylla.farias\source\repos\excecicio-menos-de-tres\excecicio-menos-de-tres\obj\Debug\excecicio-menos-de-tres.pdb
