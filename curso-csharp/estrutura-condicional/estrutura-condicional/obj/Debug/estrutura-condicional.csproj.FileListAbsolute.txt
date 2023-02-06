@@ -1,0 +1,7 @@
+C:\Users\ludmylla.farias\source\repos\estrutura-condicional\estrutura-condicional\bin\Debug\estrutura-condicional.exe.config
+C:\Users\ludmylla.farias\source\repos\estrutura-condicional\estrutura-condicional\bin\Debug\estrutura-condicional.exe
+C:\Users\ludmylla.farias\source\repos\estrutura-condicional\estrutura-condicional\bin\Debug\estrutura-condicional.pdb
+C:\Users\ludmylla.farias\source\repos\estrutura-condicional\estrutura-condicional\obj\Debug\estrutura-condicional.csproj.AssemblyReference.cache
+C:\Users\ludmylla.farias\source\repos\estrutura-condicional\estrutura-condicional\obj\Debug\estrutura-condicional.csproj.CoreCompileInputs.cache
+C:\Users\ludmylla.farias\source\repos\estrutura-condicional\estrutura-condicional\obj\Debug\estrutura-condicional.exe
+C:\Users\ludmylla.farias\source\repos\estrutura-condicional\estrutura-condicional\obj\Debug\estrutura-condicional.pdb
