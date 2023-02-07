@@ -1,0 +1,7 @@
+C:\Users\ludmylla.farias\source\repos\exercicio-membros-estaticos\exercicio-membros-estaticos\obj\Debug\exercicio-membros-estaticos.csproj.AssemblyReference.cache
+C:\Users\ludmylla.farias\source\repos\exercicio-membros-estaticos\exercicio-membros-estaticos\obj\Debug\exercicio-membros-estaticos.csproj.CoreCompileInputs.cache
+C:\Users\ludmylla.farias\source\repos\exercicio-membros-estaticos\exercicio-membros-estaticos\bin\Debug\exercicio-membros-estaticos.exe.config
+C:\Users\ludmylla.farias\source\repos\exercicio-membros-estaticos\exercicio-membros-estaticos\bin\Debug\exercicio-membros-estaticos.exe
+C:\Users\ludmylla.farias\source\repos\exercicio-membros-estaticos\exercicio-membros-estaticos\bin\Debug\exercicio-membros-estaticos.pdb
+C:\Users\ludmylla.farias\source\repos\exercicio-membros-estaticos\exercicio-membros-estaticos\obj\Debug\exercicio-membros-estaticos.exe
+C:\Users\ludmylla.farias\source\repos\exercicio-membros-estaticos\exercicio-membros-estaticos\obj\Debug\exercicio-membros-estaticos.pdb

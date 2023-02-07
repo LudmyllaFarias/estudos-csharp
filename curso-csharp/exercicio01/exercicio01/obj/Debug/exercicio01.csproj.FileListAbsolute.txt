@@ -1,0 +1,6 @@
+C:\Users\ludmylla.farias\source\repos\exercicio01\exercicio01\bin\Debug\exercicio01.exe.config
+C:\Users\ludmylla.farias\source\repos\exercicio01\exercicio01\bin\Debug\exercicio01.exe
+C:\Users\ludmylla.farias\source\repos\exercicio01\exercicio01\bin\Debug\exercicio01.pdb
+C:\Users\ludmylla.farias\source\repos\exercicio01\exercicio01\obj\Debug\exercicio01.csproj.CoreCompileInputs.cache
+C:\Users\ludmylla.farias\source\repos\exercicio01\exercicio01\obj\Debug\exercicio01.exe
+C:\Users\ludmylla.farias\source\repos\exercicio01\exercicio01\obj\Debug\exercicio01.pdb

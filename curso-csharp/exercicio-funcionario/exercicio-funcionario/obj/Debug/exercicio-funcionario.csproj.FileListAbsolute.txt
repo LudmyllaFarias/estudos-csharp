@@ -1,0 +1,6 @@
+C:\Users\ludmylla.farias\source\repos\exercicio-funcionario\exercicio-funcionario\bin\Debug\exercicio-funcionario.exe.config
+C:\Users\ludmylla.farias\source\repos\exercicio-funcionario\exercicio-funcionario\bin\Debug\exercicio-funcionario.exe
+C:\Users\ludmylla.farias\source\repos\exercicio-funcionario\exercicio-funcionario\bin\Debug\exercicio-funcionario.pdb
+C:\Users\ludmylla.farias\source\repos\exercicio-funcionario\exercicio-funcionario\obj\Debug\exercicio-funcionario.csproj.CoreCompileInputs.cache
+C:\Users\ludmylla.farias\source\repos\exercicio-funcionario\exercicio-funcionario\obj\Debug\exercicio-funcionario.exe
+C:\Users\ludmylla.farias\source\repos\exercicio-funcionario\exercicio-funcionario\obj\Debug\exercicio-funcionario.pdb

@@ -1,0 +1,6 @@
+C:\Users\ludmylla.farias\source\repos\exercicio-aluno\exercicio-aluno\bin\Debug\exercicio-aluno.exe.config
+C:\Users\ludmylla.farias\source\repos\exercicio-aluno\exercicio-aluno\bin\Debug\exercicio-aluno.exe
+C:\Users\ludmylla.farias\source\repos\exercicio-aluno\exercicio-aluno\bin\Debug\exercicio-aluno.pdb
+C:\Users\ludmylla.farias\source\repos\exercicio-aluno\exercicio-aluno\obj\Debug\exercicio-aluno.csproj.CoreCompileInputs.cache
+C:\Users\ludmylla.farias\source\repos\exercicio-aluno\exercicio-aluno\obj\Debug\exercicio-aluno.exe
+C:\Users\ludmylla.farias\source\repos\exercicio-aluno\exercicio-aluno\obj\Debug\exercicio-aluno.pdb

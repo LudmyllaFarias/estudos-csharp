@@ -1,0 +1,6 @@
+C:\Users\ludmylla.farias\source\repos\exercicio-produto-orientacao-a-objetos\exercicio-produto-orientacao-a-objetos\bin\Debug\exercicio-produto-orientacao-a-objetos.exe.config
+C:\Users\ludmylla.farias\source\repos\exercicio-produto-orientacao-a-objetos\exercicio-produto-orientacao-a-objetos\bin\Debug\exercicio-produto-orientacao-a-objetos.exe
+C:\Users\ludmylla.farias\source\repos\exercicio-produto-orientacao-a-objetos\exercicio-produto-orientacao-a-objetos\bin\Debug\exercicio-produto-orientacao-a-objetos.pdb
+C:\Users\ludmylla.farias\source\repos\exercicio-produto-orientacao-a-objetos\exercicio-produto-orientacao-a-objetos\obj\Debug\exercicio-produto-orientacao-a-objetos.csproj.CoreCompileInputs.cache
+C:\Users\ludmylla.farias\source\repos\exercicio-produto-orientacao-a-objetos\exercicio-produto-orientacao-a-objetos\obj\Debug\exercicio-produto-orientacao-a-objetos.exe
+C:\Users\ludmylla.farias\source\repos\exercicio-produto-orientacao-a-objetos\exercicio-produto-orientacao-a-objetos\obj\Debug\exercicio-produto-orientacao-a-objetos.pdb

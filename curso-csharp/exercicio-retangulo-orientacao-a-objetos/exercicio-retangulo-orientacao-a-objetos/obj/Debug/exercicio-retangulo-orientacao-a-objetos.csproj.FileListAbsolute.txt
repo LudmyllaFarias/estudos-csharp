@@ -1,0 +1,7 @@
+C:\Users\ludmylla.farias\source\repos\exercicio-retangulo-orientacao-a-objetos\exercicio-retangulo-orientacao-a-objetos\bin\Debug\exercicio-retangulo-orientacao-a-objetos.exe.config
+C:\Users\ludmylla.farias\source\repos\exercicio-retangulo-orientacao-a-objetos\exercicio-retangulo-orientacao-a-objetos\bin\Debug\exercicio-retangulo-orientacao-a-objetos.exe
+C:\Users\ludmylla.farias\source\repos\exercicio-retangulo-orientacao-a-objetos\exercicio-retangulo-orientacao-a-objetos\bin\Debug\exercicio-retangulo-orientacao-a-objetos.pdb
+C:\Users\ludmylla.farias\source\repos\exercicio-retangulo-orientacao-a-objetos\exercicio-retangulo-orientacao-a-objetos\obj\Debug\exercicio-retangulo-orientacao-a-objetos.csproj.AssemblyReference.cache
+C:\Users\ludmylla.farias\source\repos\exercicio-retangulo-orientacao-a-objetos\exercicio-retangulo-orientacao-a-objetos\obj\Debug\exercicio-retangulo-orientacao-a-objetos.csproj.CoreCompileInputs.cache
+C:\Users\ludmylla.farias\source\repos\exercicio-retangulo-orientacao-a-objetos\exercicio-retangulo-orientacao-a-objetos\obj\Debug\exercicio-retangulo-orientacao-a-objetos.exe
+C:\Users\ludmylla.farias\source\repos\exercicio-retangulo-orientacao-a-objetos\exercicio-retangulo-orientacao-a-objetos\obj\Debug\exercicio-retangulo-orientacao-a-objetos.pdb
