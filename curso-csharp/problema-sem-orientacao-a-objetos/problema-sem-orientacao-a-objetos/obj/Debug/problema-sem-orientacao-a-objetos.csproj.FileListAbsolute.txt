@@ -1,0 +1,7 @@
+C:\Users\ludmylla.farias\source\repos\problema-sem-orientacao-a-objetos\problema-sem-orientacao-a-objetos\bin\Debug\problema-sem-orientacao-a-objetos.exe.config
+C:\Users\ludmylla.farias\source\repos\problema-sem-orientacao-a-objetos\problema-sem-orientacao-a-objetos\bin\Debug\problema-sem-orientacao-a-objetos.exe
+C:\Users\ludmylla.farias\source\repos\problema-sem-orientacao-a-objetos\problema-sem-orientacao-a-objetos\bin\Debug\problema-sem-orientacao-a-objetos.pdb
+C:\Users\ludmylla.farias\source\repos\problema-sem-orientacao-a-objetos\problema-sem-orientacao-a-objetos\obj\Debug\problema-sem-orientacao-a-objetos.csproj.AssemblyReference.cache
+C:\Users\ludmylla.farias\source\repos\problema-sem-orientacao-a-objetos\problema-sem-orientacao-a-objetos\obj\Debug\problema-sem-orientacao-a-objetos.csproj.CoreCompileInputs.cache
+C:\Users\ludmylla.farias\source\repos\problema-sem-orientacao-a-objetos\problema-sem-orientacao-a-objetos\obj\Debug\problema-sem-orientacao-a-objetos.exe
+C:\Users\ludmylla.farias\source\repos\problema-sem-orientacao-a-objetos\problema-sem-orientacao-a-objetos\obj\Debug\problema-sem-orientacao-a-objetos.pdb
