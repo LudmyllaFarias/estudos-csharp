@@ -1,0 +1,14 @@
+C:\ws-csharp\curso-csharp\curso-csharp\introducao-a-delegates\introducao-a-delegates\obj\Debug\netcoreapp3.1\introducao-a-delegates.csproj.AssemblyReference.cache
+C:\ws-csharp\curso-csharp\curso-csharp\introducao-a-delegates\introducao-a-delegates\obj\Debug\netcoreapp3.1\introducao-a-delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-csharp\curso-csharp\curso-csharp\introducao-a-delegates\introducao-a-delegates\obj\Debug\netcoreapp3.1\introducao-a-delegates.AssemblyInfoInputs.cache
+C:\ws-csharp\curso-csharp\curso-csharp\introducao-a-delegates\introducao-a-delegates\obj\Debug\netcoreapp3.1\introducao-a-delegates.AssemblyInfo.cs
+C:\ws-csharp\curso-csharp\curso-csharp\introducao-a-delegates\introducao-a-delegates\obj\Debug\netcoreapp3.1\introducao-a-delegates.csproj.CoreCompileInputs.cache
+C:\ws-csharp\curso-csharp\curso-csharp\introducao-a-delegates\introducao-a-delegates\bin\Debug\netcoreapp3.1\introducao-a-delegates.exe
+C:\ws-csharp\curso-csharp\curso-csharp\introducao-a-delegates\introducao-a-delegates\bin\Debug\netcoreapp3.1\introducao-a-delegates.deps.json
+C:\ws-csharp\curso-csharp\curso-csharp\introducao-a-delegates\introducao-a-delegates\bin\Debug\netcoreapp3.1\introducao-a-delegates.runtimeconfig.json
+C:\ws-csharp\curso-csharp\curso-csharp\introducao-a-delegates\introducao-a-delegates\bin\Debug\netcoreapp3.1\introducao-a-delegates.runtimeconfig.dev.json
+C:\ws-csharp\curso-csharp\curso-csharp\introducao-a-delegates\introducao-a-delegates\bin\Debug\netcoreapp3.1\introducao-a-delegates.dll
+C:\ws-csharp\curso-csharp\curso-csharp\introducao-a-delegates\introducao-a-delegates\bin\Debug\netcoreapp3.1\introducao-a-delegates.pdb
+C:\ws-csharp\curso-csharp\curso-csharp\introducao-a-delegates\introducao-a-delegates\obj\Debug\netcoreapp3.1\introducao-a-delegates.dll
+C:\ws-csharp\curso-csharp\curso-csharp\introducao-a-delegates\introducao-a-delegates\obj\Debug\netcoreapp3.1\introducao-a-delegates.pdb
+C:\ws-csharp\curso-csharp\curso-csharp\introducao-a-delegates\introducao-a-delegates\obj\Debug\netcoreapp3.1\introducao-a-delegates.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\ws-csharp\projeto-mvc\produto-comparison\produto-comparison\bin\Debug\netcoreapp3.1\produto-comparison.exe
+C:\ws-csharp\projeto-mvc\produto-comparison\produto-comparison\bin\Debug\netcoreapp3.1\produto-comparison.deps.json
+C:\ws-csharp\projeto-mvc\produto-comparison\produto-comparison\bin\Debug\netcoreapp3.1\produto-comparison.runtimeconfig.json
+C:\ws-csharp\projeto-mvc\produto-comparison\produto-comparison\bin\Debug\netcoreapp3.1\produto-comparison.runtimeconfig.dev.json
+C:\ws-csharp\projeto-mvc\produto-comparison\produto-comparison\bin\Debug\netcoreapp3.1\produto-comparison.dll
+C:\ws-csharp\projeto-mvc\produto-comparison\produto-comparison\bin\Debug\netcoreapp3.1\produto-comparison.pdb
+C:\ws-csharp\projeto-mvc\produto-comparison\produto-comparison\obj\Debug\netcoreapp3.1\produto-comparison.csproj.AssemblyReference.cache
+C:\ws-csharp\projeto-mvc\produto-comparison\produto-comparison\obj\Debug\netcoreapp3.1\produto-comparison.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-csharp\projeto-mvc\produto-comparison\produto-comparison\obj\Debug\netcoreapp3.1\produto-comparison.AssemblyInfoInputs.cache
+C:\ws-csharp\projeto-mvc\produto-comparison\produto-comparison\obj\Debug\netcoreapp3.1\produto-comparison.AssemblyInfo.cs
+C:\ws-csharp\projeto-mvc\produto-comparison\produto-comparison\obj\Debug\netcoreapp3.1\produto-comparison.csproj.CoreCompileInputs.cache
+C:\ws-csharp\projeto-mvc\produto-comparison\produto-comparison\obj\Debug\netcoreapp3.1\produto-comparison.dll
+C:\ws-csharp\projeto-mvc\produto-comparison\produto-comparison\obj\Debug\netcoreapp3.1\produto-comparison.pdb
+C:\ws-csharp\projeto-mvc\produto-comparison\produto-comparison\obj\Debug\netcoreapp3.1\produto-comparison.genruntimeconfig.cache
