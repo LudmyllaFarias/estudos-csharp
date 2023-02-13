@@ -1,0 +1,14 @@
+C:\ws-csharp\projeto-mvc\produto-categoria-linq\produto-categoria-linq\bin\Debug\netcoreapp3.1\produto-categoria-linq.exe
+C:\ws-csharp\projeto-mvc\produto-categoria-linq\produto-categoria-linq\bin\Debug\netcoreapp3.1\produto-categoria-linq.deps.json
+C:\ws-csharp\projeto-mvc\produto-categoria-linq\produto-categoria-linq\bin\Debug\netcoreapp3.1\produto-categoria-linq.runtimeconfig.json
+C:\ws-csharp\projeto-mvc\produto-categoria-linq\produto-categoria-linq\bin\Debug\netcoreapp3.1\produto-categoria-linq.runtimeconfig.dev.json
+C:\ws-csharp\projeto-mvc\produto-categoria-linq\produto-categoria-linq\bin\Debug\netcoreapp3.1\produto-categoria-linq.dll
+C:\ws-csharp\projeto-mvc\produto-categoria-linq\produto-categoria-linq\bin\Debug\netcoreapp3.1\produto-categoria-linq.pdb
+C:\ws-csharp\projeto-mvc\produto-categoria-linq\produto-categoria-linq\obj\Debug\netcoreapp3.1\produto-categoria-linq.csproj.AssemblyReference.cache
+C:\ws-csharp\projeto-mvc\produto-categoria-linq\produto-categoria-linq\obj\Debug\netcoreapp3.1\produto-categoria-linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-csharp\projeto-mvc\produto-categoria-linq\produto-categoria-linq\obj\Debug\netcoreapp3.1\produto-categoria-linq.AssemblyInfoInputs.cache
+C:\ws-csharp\projeto-mvc\produto-categoria-linq\produto-categoria-linq\obj\Debug\netcoreapp3.1\produto-categoria-linq.AssemblyInfo.cs
+C:\ws-csharp\projeto-mvc\produto-categoria-linq\produto-categoria-linq\obj\Debug\netcoreapp3.1\produto-categoria-linq.csproj.CoreCompileInputs.cache
+C:\ws-csharp\projeto-mvc\produto-categoria-linq\produto-categoria-linq\obj\Debug\netcoreapp3.1\produto-categoria-linq.dll
+C:\ws-csharp\projeto-mvc\produto-categoria-linq\produto-categoria-linq\obj\Debug\netcoreapp3.1\produto-categoria-linq.pdb
+C:\ws-csharp\projeto-mvc\produto-categoria-linq\produto-categoria-linq\obj\Debug\netcoreapp3.1\produto-categoria-linq.genruntimeconfig.cache

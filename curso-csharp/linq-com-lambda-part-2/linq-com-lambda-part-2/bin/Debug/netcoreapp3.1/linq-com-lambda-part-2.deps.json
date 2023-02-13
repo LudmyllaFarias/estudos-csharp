@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "linq-com-lambda-part-2/1.0.0": {
+        "runtime": {
+          "linq-com-lambda-part-2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "linq-com-lambda-part-2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
