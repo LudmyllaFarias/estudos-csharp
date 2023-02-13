@@ -1,0 +1,14 @@
+C:\ws-csharp\curso-csharp\curso-csharp\streamWrite\streamWrite\bin\Debug\netcoreapp3.1\streamWrite.exe
+C:\ws-csharp\curso-csharp\curso-csharp\streamWrite\streamWrite\bin\Debug\netcoreapp3.1\streamWrite.deps.json
+C:\ws-csharp\curso-csharp\curso-csharp\streamWrite\streamWrite\bin\Debug\netcoreapp3.1\streamWrite.runtimeconfig.json
+C:\ws-csharp\curso-csharp\curso-csharp\streamWrite\streamWrite\bin\Debug\netcoreapp3.1\streamWrite.runtimeconfig.dev.json
+C:\ws-csharp\curso-csharp\curso-csharp\streamWrite\streamWrite\bin\Debug\netcoreapp3.1\streamWrite.dll
+C:\ws-csharp\curso-csharp\curso-csharp\streamWrite\streamWrite\bin\Debug\netcoreapp3.1\streamWrite.pdb
+C:\ws-csharp\curso-csharp\curso-csharp\streamWrite\streamWrite\obj\Debug\netcoreapp3.1\streamWrite.csproj.AssemblyReference.cache
+C:\ws-csharp\curso-csharp\curso-csharp\streamWrite\streamWrite\obj\Debug\netcoreapp3.1\streamWrite.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-csharp\curso-csharp\curso-csharp\streamWrite\streamWrite\obj\Debug\netcoreapp3.1\streamWrite.AssemblyInfoInputs.cache
+C:\ws-csharp\curso-csharp\curso-csharp\streamWrite\streamWrite\obj\Debug\netcoreapp3.1\streamWrite.AssemblyInfo.cs
+C:\ws-csharp\curso-csharp\curso-csharp\streamWrite\streamWrite\obj\Debug\netcoreapp3.1\streamWrite.csproj.CoreCompileInputs.cache
+C:\ws-csharp\curso-csharp\curso-csharp\streamWrite\streamWrite\obj\Debug\netcoreapp3.1\streamWrite.dll
+C:\ws-csharp\curso-csharp\curso-csharp\streamWrite\streamWrite\obj\Debug\netcoreapp3.1\streamWrite.pdb
+C:\ws-csharp\curso-csharp\curso-csharp\streamWrite\streamWrite\obj\Debug\netcoreapp3.1\streamWrite.genruntimeconfig.cache

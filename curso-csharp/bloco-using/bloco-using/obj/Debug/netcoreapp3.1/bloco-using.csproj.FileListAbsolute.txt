@@ -1,0 +1,14 @@
+C:\ws-csharp\curso-csharp\curso-csharp\bloco-using\bloco-using\bin\Debug\netcoreapp3.1\bloco-using.exe
+C:\ws-csharp\curso-csharp\curso-csharp\bloco-using\bloco-using\bin\Debug\netcoreapp3.1\bloco-using.deps.json
+C:\ws-csharp\curso-csharp\curso-csharp\bloco-using\bloco-using\bin\Debug\netcoreapp3.1\bloco-using.runtimeconfig.json
+C:\ws-csharp\curso-csharp\curso-csharp\bloco-using\bloco-using\bin\Debug\netcoreapp3.1\bloco-using.runtimeconfig.dev.json
+C:\ws-csharp\curso-csharp\curso-csharp\bloco-using\bloco-using\bin\Debug\netcoreapp3.1\bloco-using.dll
+C:\ws-csharp\curso-csharp\curso-csharp\bloco-using\bloco-using\bin\Debug\netcoreapp3.1\bloco-using.pdb
+C:\ws-csharp\curso-csharp\curso-csharp\bloco-using\bloco-using\obj\Debug\netcoreapp3.1\bloco-using.csproj.AssemblyReference.cache
+C:\ws-csharp\curso-csharp\curso-csharp\bloco-using\bloco-using\obj\Debug\netcoreapp3.1\bloco-using.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-csharp\curso-csharp\curso-csharp\bloco-using\bloco-using\obj\Debug\netcoreapp3.1\bloco-using.AssemblyInfoInputs.cache
+C:\ws-csharp\curso-csharp\curso-csharp\bloco-using\bloco-using\obj\Debug\netcoreapp3.1\bloco-using.AssemblyInfo.cs
+C:\ws-csharp\curso-csharp\curso-csharp\bloco-using\bloco-using\obj\Debug\netcoreapp3.1\bloco-using.csproj.CoreCompileInputs.cache
+C:\ws-csharp\curso-csharp\curso-csharp\bloco-using\bloco-using\obj\Debug\netcoreapp3.1\bloco-using.dll
+C:\ws-csharp\curso-csharp\curso-csharp\bloco-using\bloco-using\obj\Debug\netcoreapp3.1\bloco-using.pdb
+C:\ws-csharp\curso-csharp\curso-csharp\bloco-using\bloco-using\obj\Debug\netcoreapp3.1\bloco-using.genruntimeconfig.cache

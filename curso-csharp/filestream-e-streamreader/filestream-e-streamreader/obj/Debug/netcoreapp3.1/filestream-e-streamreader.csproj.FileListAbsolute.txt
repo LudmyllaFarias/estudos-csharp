@@ -1,0 +1,14 @@
+C:\ws-csharp\curso-csharp\curso-csharp\filestream-e-streamreader\filestream-e-streamreader\bin\Debug\netcoreapp3.1\filestream-e-streamreader.exe
+C:\ws-csharp\curso-csharp\curso-csharp\filestream-e-streamreader\filestream-e-streamreader\bin\Debug\netcoreapp3.1\filestream-e-streamreader.deps.json
+C:\ws-csharp\curso-csharp\curso-csharp\filestream-e-streamreader\filestream-e-streamreader\bin\Debug\netcoreapp3.1\filestream-e-streamreader.runtimeconfig.json
+C:\ws-csharp\curso-csharp\curso-csharp\filestream-e-streamreader\filestream-e-streamreader\bin\Debug\netcoreapp3.1\filestream-e-streamreader.runtimeconfig.dev.json
+C:\ws-csharp\curso-csharp\curso-csharp\filestream-e-streamreader\filestream-e-streamreader\bin\Debug\netcoreapp3.1\filestream-e-streamreader.dll
+C:\ws-csharp\curso-csharp\curso-csharp\filestream-e-streamreader\filestream-e-streamreader\bin\Debug\netcoreapp3.1\filestream-e-streamreader.pdb
+C:\ws-csharp\curso-csharp\curso-csharp\filestream-e-streamreader\filestream-e-streamreader\obj\Debug\netcoreapp3.1\filestream-e-streamreader.csproj.AssemblyReference.cache
+C:\ws-csharp\curso-csharp\curso-csharp\filestream-e-streamreader\filestream-e-streamreader\obj\Debug\netcoreapp3.1\filestream-e-streamreader.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-csharp\curso-csharp\curso-csharp\filestream-e-streamreader\filestream-e-streamreader\obj\Debug\netcoreapp3.1\filestream-e-streamreader.AssemblyInfoInputs.cache
+C:\ws-csharp\curso-csharp\curso-csharp\filestream-e-streamreader\filestream-e-streamreader\obj\Debug\netcoreapp3.1\filestream-e-streamreader.AssemblyInfo.cs
+C:\ws-csharp\curso-csharp\curso-csharp\filestream-e-streamreader\filestream-e-streamreader\obj\Debug\netcoreapp3.1\filestream-e-streamreader.csproj.CoreCompileInputs.cache
+C:\ws-csharp\curso-csharp\curso-csharp\filestream-e-streamreader\filestream-e-streamreader\obj\Debug\netcoreapp3.1\filestream-e-streamreader.dll
+C:\ws-csharp\curso-csharp\curso-csharp\filestream-e-streamreader\filestream-e-streamreader\obj\Debug\netcoreapp3.1\filestream-e-streamreader.pdb
+C:\ws-csharp\curso-csharp\curso-csharp\filestream-e-streamreader\filestream-e-streamreader\obj\Debug\netcoreapp3.1\filestream-e-streamreader.genruntimeconfig.cache

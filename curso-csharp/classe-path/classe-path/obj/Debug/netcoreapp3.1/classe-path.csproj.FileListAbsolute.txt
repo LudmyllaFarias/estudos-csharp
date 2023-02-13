@@ -1,0 +1,14 @@
+C:\ws-csharp\curso-csharp\curso-csharp\classe-path\classe-path\bin\Debug\netcoreapp3.1\classe-path.exe
+C:\ws-csharp\curso-csharp\curso-csharp\classe-path\classe-path\bin\Debug\netcoreapp3.1\classe-path.deps.json
+C:\ws-csharp\curso-csharp\curso-csharp\classe-path\classe-path\bin\Debug\netcoreapp3.1\classe-path.runtimeconfig.json
+C:\ws-csharp\curso-csharp\curso-csharp\classe-path\classe-path\bin\Debug\netcoreapp3.1\classe-path.runtimeconfig.dev.json
+C:\ws-csharp\curso-csharp\curso-csharp\classe-path\classe-path\bin\Debug\netcoreapp3.1\classe-path.dll
+C:\ws-csharp\curso-csharp\curso-csharp\classe-path\classe-path\bin\Debug\netcoreapp3.1\classe-path.pdb
+C:\ws-csharp\curso-csharp\curso-csharp\classe-path\classe-path\obj\Debug\netcoreapp3.1\classe-path.csproj.AssemblyReference.cache
+C:\ws-csharp\curso-csharp\curso-csharp\classe-path\classe-path\obj\Debug\netcoreapp3.1\classe-path.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-csharp\curso-csharp\curso-csharp\classe-path\classe-path\obj\Debug\netcoreapp3.1\classe-path.AssemblyInfoInputs.cache
+C:\ws-csharp\curso-csharp\curso-csharp\classe-path\classe-path\obj\Debug\netcoreapp3.1\classe-path.AssemblyInfo.cs
+C:\ws-csharp\curso-csharp\curso-csharp\classe-path\classe-path\obj\Debug\netcoreapp3.1\classe-path.csproj.CoreCompileInputs.cache
+C:\ws-csharp\curso-csharp\curso-csharp\classe-path\classe-path\obj\Debug\netcoreapp3.1\classe-path.dll
+C:\ws-csharp\curso-csharp\curso-csharp\classe-path\classe-path\obj\Debug\netcoreapp3.1\classe-path.pdb
+C:\ws-csharp\curso-csharp\curso-csharp\classe-path\classe-path\obj\Debug\netcoreapp3.1\classe-path.genruntimeconfig.cache

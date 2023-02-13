@@ -1,0 +1,14 @@
+C:\ws-csharp\curso-csharp\curso-csharp\trabalhando-com-arquivos\trabalhando-com-arquivos\bin\Debug\netcoreapp3.1\trabalhando-com-arquivos.exe
+C:\ws-csharp\curso-csharp\curso-csharp\trabalhando-com-arquivos\trabalhando-com-arquivos\bin\Debug\netcoreapp3.1\trabalhando-com-arquivos.deps.json
+C:\ws-csharp\curso-csharp\curso-csharp\trabalhando-com-arquivos\trabalhando-com-arquivos\bin\Debug\netcoreapp3.1\trabalhando-com-arquivos.runtimeconfig.json
+C:\ws-csharp\curso-csharp\curso-csharp\trabalhando-com-arquivos\trabalhando-com-arquivos\bin\Debug\netcoreapp3.1\trabalhando-com-arquivos.runtimeconfig.dev.json
+C:\ws-csharp\curso-csharp\curso-csharp\trabalhando-com-arquivos\trabalhando-com-arquivos\bin\Debug\netcoreapp3.1\trabalhando-com-arquivos.dll
+C:\ws-csharp\curso-csharp\curso-csharp\trabalhando-com-arquivos\trabalhando-com-arquivos\bin\Debug\netcoreapp3.1\trabalhando-com-arquivos.pdb
+C:\ws-csharp\curso-csharp\curso-csharp\trabalhando-com-arquivos\trabalhando-com-arquivos\obj\Debug\netcoreapp3.1\trabalhando-com-arquivos.csproj.AssemblyReference.cache
+C:\ws-csharp\curso-csharp\curso-csharp\trabalhando-com-arquivos\trabalhando-com-arquivos\obj\Debug\netcoreapp3.1\trabalhando-com-arquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-csharp\curso-csharp\curso-csharp\trabalhando-com-arquivos\trabalhando-com-arquivos\obj\Debug\netcoreapp3.1\trabalhando-com-arquivos.AssemblyInfoInputs.cache
+C:\ws-csharp\curso-csharp\curso-csharp\trabalhando-com-arquivos\trabalhando-com-arquivos\obj\Debug\netcoreapp3.1\trabalhando-com-arquivos.AssemblyInfo.cs
+C:\ws-csharp\curso-csharp\curso-csharp\trabalhando-com-arquivos\trabalhando-com-arquivos\obj\Debug\netcoreapp3.1\trabalhando-com-arquivos.csproj.CoreCompileInputs.cache
+C:\ws-csharp\curso-csharp\curso-csharp\trabalhando-com-arquivos\trabalhando-com-arquivos\obj\Debug\netcoreapp3.1\trabalhando-com-arquivos.dll
+C:\ws-csharp\curso-csharp\curso-csharp\trabalhando-com-arquivos\trabalhando-com-arquivos\obj\Debug\netcoreapp3.1\trabalhando-com-arquivos.pdb
+C:\ws-csharp\curso-csharp\curso-csharp\trabalhando-com-arquivos\trabalhando-com-arquivos\obj\Debug\netcoreapp3.1\trabalhando-com-arquivos.genruntimeconfig.cache

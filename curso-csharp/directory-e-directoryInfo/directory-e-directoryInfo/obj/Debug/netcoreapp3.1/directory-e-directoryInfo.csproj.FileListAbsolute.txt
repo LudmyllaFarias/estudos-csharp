@@ -1,0 +1,14 @@
+C:\ws-csharp\curso-csharp\curso-csharp\directory-e-directoryInfo\directory-e-directoryInfo\bin\Debug\netcoreapp3.1\directory-e-directoryInfo.exe
+C:\ws-csharp\curso-csharp\curso-csharp\directory-e-directoryInfo\directory-e-directoryInfo\bin\Debug\netcoreapp3.1\directory-e-directoryInfo.deps.json
+C:\ws-csharp\curso-csharp\curso-csharp\directory-e-directoryInfo\directory-e-directoryInfo\bin\Debug\netcoreapp3.1\directory-e-directoryInfo.runtimeconfig.json
+C:\ws-csharp\curso-csharp\curso-csharp\directory-e-directoryInfo\directory-e-directoryInfo\bin\Debug\netcoreapp3.1\directory-e-directoryInfo.runtimeconfig.dev.json
+C:\ws-csharp\curso-csharp\curso-csharp\directory-e-directoryInfo\directory-e-directoryInfo\bin\Debug\netcoreapp3.1\directory-e-directoryInfo.dll
+C:\ws-csharp\curso-csharp\curso-csharp\directory-e-directoryInfo\directory-e-directoryInfo\bin\Debug\netcoreapp3.1\directory-e-directoryInfo.pdb
+C:\ws-csharp\curso-csharp\curso-csharp\directory-e-directoryInfo\directory-e-directoryInfo\obj\Debug\netcoreapp3.1\directory-e-directoryInfo.csproj.AssemblyReference.cache
+C:\ws-csharp\curso-csharp\curso-csharp\directory-e-directoryInfo\directory-e-directoryInfo\obj\Debug\netcoreapp3.1\directory-e-directoryInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\ws-csharp\curso-csharp\curso-csharp\directory-e-directoryInfo\directory-e-directoryInfo\obj\Debug\netcoreapp3.1\directory-e-directoryInfo.AssemblyInfoInputs.cache
+C:\ws-csharp\curso-csharp\curso-csharp\directory-e-directoryInfo\directory-e-directoryInfo\obj\Debug\netcoreapp3.1\directory-e-directoryInfo.AssemblyInfo.cs
+C:\ws-csharp\curso-csharp\curso-csharp\directory-e-directoryInfo\directory-e-directoryInfo\obj\Debug\netcoreapp3.1\directory-e-directoryInfo.csproj.CoreCompileInputs.cache
+C:\ws-csharp\curso-csharp\curso-csharp\directory-e-directoryInfo\directory-e-directoryInfo\obj\Debug\netcoreapp3.1\directory-e-directoryInfo.dll
+C:\ws-csharp\curso-csharp\curso-csharp\directory-e-directoryInfo\directory-e-directoryInfo\obj\Debug\netcoreapp3.1\directory-e-directoryInfo.pdb
+C:\ws-csharp\curso-csharp\curso-csharp\directory-e-directoryInfo\directory-e-directoryInfo\obj\Debug\netcoreapp3.1\directory-e-directoryInfo.genruntimeconfig.cache
